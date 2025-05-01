@@ -1,4 +1,3 @@
-# NumberGuessingGame
 # 🎯 Number Guessing Game (Java + Swing)
 A simple number guessing game built with Java and Swing GUI. The user selects a difficulty level, then tries to guess a randomly selected number. The game gives feedback and calculates score based on time and number of attempts.
 
