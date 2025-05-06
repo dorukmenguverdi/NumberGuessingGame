@@ -14,10 +14,6 @@ A simple number guessing game built with Java and Swing GUI. The user selects a 
 - Java (JDK 17+ recommended)
 - Swing (Java GUI library)
 
-## 📷 Screenshots
-
-*(Optional)* Add a screenshot here showing the GUI
-
 ## 🛠️ How to Run
 
 1. Clone the repository:
