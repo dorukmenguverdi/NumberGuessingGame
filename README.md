@@ -17,7 +17,7 @@ A simple number guessing game built with Java and Swing GUI. The user selects a 
 ## 🛠️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/dorukmenguverdi/number-guessing-game.git
+git clone https://github.com/dorukmenguverdi/numberGuessingGame.git
 
 2. Navigate to the project directory and compile:
 javac src/*.java
